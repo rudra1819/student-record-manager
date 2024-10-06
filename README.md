@@ -19,4 +19,4 @@ A simple Java-based console application to manage student information, including
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/rudra1819/student-record-manager.git
